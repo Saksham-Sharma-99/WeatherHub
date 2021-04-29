@@ -1,0 +1,25 @@
+.week-container{
+    margin: 30px auto;
+    text-align: center;
+    padding: 20px;
+    min-width: 400px;
+    overflow-x: scroll;
+    flex-wrap: nowrap;
+}
+
+.selected{
+    background-color:#f4d160;
+    border: solid #28527a;
+    color: #28527a;
+    border-radius: 10px;
+    padding: 20px 20px 5px;
+}
+
+.not-selected{
+    padding: 30px 20px 5px;
+    color: #8ac4d0;
+}
+
+.selected:hover , .not-selected:hover{
+    cursor: pointer;
+}
