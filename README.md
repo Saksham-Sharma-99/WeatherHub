@@ -1,5 +1,10 @@
 <img width="1435" alt="Screenshot 2021-04-29 at 11 12 54 AM" src="https://user-images.githubusercontent.com/63503364/116506961-fa905800-a8db-11eb-8e40-da7aec1fe0f6.png">
 
+<img width="442" alt="Screenshot 2021-04-29 at 11 17 02 AM" src="https://user-images.githubusercontent.com/63503364/116507249-873b1600-a8dc-11eb-8506-8b526e77c3a1.png">
+<img width="407" alt="Screenshot 2021-04-29 at 11 17 11 AM" src="https://user-images.githubusercontent.com/63503364/116507255-8a360680-a8dc-11eb-82bc-d842386f8987.png">
+
+
+
 
 
 
